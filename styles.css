@@ -1,0 +1,19 @@
+* {
+    box-sizing:border-box;
+}
+.one {
+    height:80px;
+    width:80px;
+    padding:10px;
+    margin:30px;
+    border: 10px solid salmon;
+    text-align:center;
+}
+
+.two {
+    height:200px;
+    width:200px;
+    padding:20px;
+    border:10px solid tomato;
+    margin: 20px;
+}
